@@ -15,3 +15,5 @@ The dataset contains detailed information on ultramarathon participants, includi
 Usage
 Feel free to explore the provided dataset and EDA notebooks to gain insights into ultramarathon participation, performance trends, and athlete characteristics. The findings can serve as a valuable resource for new athletes seeking to enhance their understanding of marathon procedures, training programs, and performance optimization strategies.
 
+Requirements Python, NumPy, pandas 
+
