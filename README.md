@@ -5,6 +5,7 @@ Overview:
 This repository presents an exploratory data analysis (EDA) conducted on an extensive ultramarathon dataset. The dataset encompasses diverse attributes such as athlete age, gender, average speed, and various factors like countries producing more athletes. The EDA aims to provide valuable insights into the marathon procedure, training programs, and trends, facilitating new athletes in their journey towards understanding and excelling in ultramarathons.
 
 Objectives:
+
 Explore athlete demographics and characteristics.
 
 Analyze trends in ultramarathon participation and performance.
