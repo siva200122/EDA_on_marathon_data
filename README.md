@@ -6,15 +6,13 @@ This repository presents an exploratory data analysis (EDA) conducted on an exte
 
 Objectives:
 
-Explore athlete demographics and characteristics.
-
-Analyze trends in ultramarathon participation and performance.
-
-Identify factors influencing athlete performance and race outcomes.
-
-Extract insights to optimize training programs and performance strategies for aspiring athletes.
+1.Explore athlete demographics and characteristics.
+2.Analyze trends in ultramarathon participation and performance.
+3.Identify factors influencing athlete performance and race outcomes.
+4.Extract insights to optimize training programs and performance strategies for aspiring athletes.
 
 Dataset
+
 The dataset contains detailed information on ultramarathon participants, including age, gender, average speed, country of origin, and other relevant factors. This comprehensive dataset enables thorough analysis and exploration of various aspects of ultramarathon races.
 
 Usage
