@@ -14,13 +14,14 @@ Objectives:
 
 4.Extract insights to optimize training programs and performance strategies for aspiring athletes.
 
-Dataset
+Dataset:
 
 The dataset contains detailed information on ultramarathon participants, including age, gender, average speed, country of origin, and other relevant factors. This comprehensive dataset enables thorough analysis and exploration of various aspects of ultramarathon races.
 
-Usage
+Usage:
 
 Feel free to explore the provided dataset and EDA notebooks to gain insights into ultramarathon participation, performance trends, and athlete characteristics. The findings can serve as a valuable resource for new athletes seeking to enhance their understanding of marathon procedures, training programs, and performance optimization strategies.
 
-Requirements Python, NumPy, pandas 
+Requirements:
+Python, NumPy, pandas 
 
